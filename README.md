@@ -3,7 +3,6 @@
 Homage to an old friend.
 
 
-
 ![Logo](https://raw.githubusercontent.com/nekumelon/SonOfAnton/main/logo.png)
 
 
@@ -13,16 +12,6 @@ A: Son of Anton is the name given to Gilfoyles AI bot from the HBO programming s
 
 #### Q: What Operating Systems are currently supported?
 A: Microsoft Windows (10>) is the only OS that has been thoroughly tested on. Linux and MacOS are likely compatible with a few tweaks though.
-## Author
-- [@nekumelon](https://www.github.com/nekumelon)
-- Email: nekumelon@gmail.com
-- Reddit: reddit.com/u/nekumelon
-## Support
-For support, email nekumelon@gmail.com or join the discord.
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Installation
@@ -40,13 +29,6 @@ Then you can run the main file with python:
   cd src
   python main.py
 ```
-    
-## Roadmap
-- TBD
-
-## Feedback
-If you have any feedback or suggestions about SonOfAnton, join the discord or contact me at any of the contacts listed.
-
 
 ## Features
 - Static querying
@@ -56,9 +38,29 @@ If you have any feedback or suggestions about SonOfAnton, join the discord or co
 - Text and voice responding
 - Completion caching
 - Prompt optimization by reducing tokens
+
+    
+## Roadmap
+- TBD
+
+## Feedback
+If you have any feedback or suggestions about SonOfAnton, join the discord or contact me at any of the contacts listed.
+
+
 ## Badges
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![CodeFactor Code Quality](https://img.shields.io/codefactor/grade/github/nekumelon/SonOfAnton/main?)](https://www.codefactor.io/repository/github/nekumelon/sonofanton)
 [![Top Languages](https://img.shields.io/github/languages/top/nekumelon/SonOfAnton)](https://github.com/nekumelon/SonOfAnton)
 [![Repo Size](https://img.shields.io/github/repo-size/nekumelon/SonOfAnton)](https://github.com/nekumelon/SonOfAnton)
 [![](https://tokei.rs/b1/github/nekumelon/SonOfAnton)](https://github.com/nekumelon/SonOfAnton)
+
+## Author
+- [@nekumelon](https://www.github.com/nekumelon)
+- Email: nekumelon@gmail.com
+- Reddit: reddit.com/u/nekumelon
+## Support
+For support, email nekumelon@gmail.com or join the discord.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
