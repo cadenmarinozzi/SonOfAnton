@@ -24,7 +24,7 @@ To download the source code of SonOfAnton from a cli, use git clone on the repos
   git clone https://github.com/nekumelon/SonOfAnton.git
 ```
 
-Your OPENAI_API_KEY from https://beta.openai.com/account/api-keys should be in a file located in the src directory called OPENAI_API_KEY.
+Your OPENAI_API_KEY from https://beta.openai.com/account/api-keys should be in a file located in the src directory called `OPENAI_API_KEY`.
 
 Then you can run the main file with python:
 ```bash
