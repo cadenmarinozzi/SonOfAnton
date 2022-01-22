@@ -1,12 +1,12 @@
 """
-SonOfAnton
+Anton
 created by: nekumelon
 version: v0.0.1
 """
 
 import platform, query.query as query, IO.io as io
 
-assert platform.system() == 'Windows', 'At the moment, Microsoft Windows (10>) is the only operating system compatible with SonOfAnton';
+assert platform.system() == 'Windows', 'At the moment, Microsoft Windows (10>) is the only operating system compatible with Anton';
 
 querier = query.Querier();
 
