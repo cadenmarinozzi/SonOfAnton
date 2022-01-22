@@ -7,7 +7,8 @@ import openai, os, json, re, IO.io as io
 from encoder.encoder import get_encoder
 
 MAX_TOKENS = 2048;
-openai.api_key = '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';
+openai.api_key_path = 'OPENAI_API_KEY';
+                
 
 encoder = get_encoder();
 
