@@ -3,3 +3,5 @@
 *.env
 *OPENAI_API_KEY
 *completionsCache.json
+*config.json
+*Temp

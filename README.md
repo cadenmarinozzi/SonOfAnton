@@ -24,7 +24,16 @@ To download the source code of SonOfAnton from a cli, use git clone on the repos
   git clone https://github.com/nekumelon/SonOfAnton.git
 ```
 
-Your OPENAI_API_KEY from https://beta.openai.com/account/api-keys should be in a file located in the src directory called `OPENAI_API_KEY`.
+To use the APIQuery engine and IBM Watson TTS, put the following json with your OpenAI API Key and Watson info into the config file:
+```json
+{
+    "OPENAI_API_KEY": "...",
+    "IBM_WATSON_API_KEY": "...",
+    "IBM_WATSON_SERVICE_URL": "..."
+}
+```
+
+The configuration should be located in a file called 'config.json' is the source directory.
 
 Then you can run the main file with python:
 ```bash
