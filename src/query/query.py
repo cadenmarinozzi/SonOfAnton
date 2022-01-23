@@ -40,7 +40,7 @@ def prepareQuery(query):
     return query;
 
 class Querier:
-    def __init__(self, APIEngine='text-davinci-001', maxTokens=50):
+    def __init__(self, APIEngine='text-davinci-001', maxTokens=100):
         self.APIEngine = APIEngine;
         self.maxTokens = maxTokens;
 

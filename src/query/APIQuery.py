@@ -7,9 +7,12 @@ import openai, os, json, re, IO.io as io
 from encoder.encoder import get_encoder
 
 MAX_TOKENS = 2048;
-openai.api_key_path = 'OPENAI_API_KEY';
-                
 
+with open('config.json') as configFile:
+    config = json.loads(configFile.read());
+
+openai.api_key = config['OPENAI_API_KEY'];
+                
 encoder = get_encoder();
 
 def clamp(num, min_value, max_value): # https://www.tutorialspoint.com/How-to-clamp-floating-numbers-in-Pythons

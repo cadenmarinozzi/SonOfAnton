@@ -2,6 +2,8 @@
 Different methods for receiving inputs for queries
 """
 
+from IO.tts import speak
+
 # Input
 
 def textInput(head):
@@ -14,5 +16,12 @@ def inp():
 
 # Output
 
+def textOutput(head, text):
+    print(f'{head}: {text}');
+
+def voiceOutput(text):
+    speak(text);
+
 def out(text):
-    print(text);
+    textOutput('Response', text);
+    voiceOutput(text);
