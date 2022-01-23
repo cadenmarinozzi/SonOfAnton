@@ -41,20 +41,16 @@ Then you can run the main file with python:
 - Completion caching
 - Prompt optimization by reducing tokens
 
-    
-## Roadmap
-- TBD
-
 ## Feedback
 If you have any feedback or suggestions about SonOfAnton, join the discord or contact me at any of the contacts listed.
 
 
 ## Badges
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![CodeFactor Code Quality](https://img.shields.io/codefactor/grade/github/nekumelon/SonOfAnton/main?)](https://www.codefactor.io/repository/github/nekumelon/sonofanton)
+[![CodeFactor Code Quality](https://img.shields.io/codefactor/grade/github/nekumelon/SonOfAnton/main)](https://www.codefactor.io/repository/github/nekumelon/sonofanton)
 [![Top Languages](https://img.shields.io/github/languages/top/nekumelon/SonOfAnton)](https://github.com/nekumelon/SonOfAnton)
 [![Repo Size](https://img.shields.io/github/repo-size/nekumelon/SonOfAnton)](https://github.com/nekumelon/SonOfAnton)
-[![](https://tokei.rs/b1/github/nekumelon/SonOfAnton)](https://github.com/nekumelon/SonOfAnton)
+[![Lines](https://tokei.rs/b1/github/nekumelon/SonOfAnton)](https://github.com/nekumelon/SonOfAnton)
 
 ## Author
 - [@nekumelon](https://www.github.com/nekumelon)
