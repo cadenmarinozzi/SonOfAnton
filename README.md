@@ -3,7 +3,7 @@
 Homage to an old friend.
 
 
-![Logo](https://raw.githubusercontent.com/nekumelon/SonOfAnton/main/logo.png)
+![Logo](https://raw.githubusercontent.com/cadenmarinozzi/SonOfAnton/main/logo.png)
 
 
 ## FAQ
